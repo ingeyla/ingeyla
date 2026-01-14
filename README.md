@@ -9,6 +9,8 @@
     * 🔄 **CI/CD:** Transformación de procesos manuales en pipelines eficientes.
     * 🛡️ **Seguridad:** Mejores prácticas modernas de DevOps sobre bases sólidas de administración de servidores.
 
+  <br>
+
   <a href="https://www.linkedin.com/in/eyla-v%C3%A1squez-8b9ab3188/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -28,10 +30,9 @@ Mi experiencia técnica combina la administración de sistemas tradicional con l
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
   <img src="https://img.shields.io/badge/Terragrunt-5C48A2?style=for-the-badge&logo=terraform&logoColor=white" alt="Terragrunt" />
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   
   <br />
-
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
   
