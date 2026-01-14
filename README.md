@@ -51,8 +51,3 @@ Mi experiencia técnica combina la administración de sistemas tradicional con l
 * **Ingeniería de Sistemas** - Universidad de Margarita (2020)
 
 <br />
-
-### 📊 Estadísticas de GitHub
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ingeyla&show_icons=true&theme=gotham&count_private=true&include_all_commits=true" />
-</div>
