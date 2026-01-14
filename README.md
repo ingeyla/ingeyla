@@ -2,12 +2,9 @@
   <h1>¡Hola! Soy Eyla Vásquez 👋</h1>
   <h3>DevOps Engineer | IT Manager | Cloud Infrastructure Specialist</h3>
   
-  <p>
-    Ingeniero de Sistemas con sólida experiencia en IT y Cloud Computing. 
-    Especializada en <b>Infraestructura como Código (IaC)</b> en AWS y automatización de pipelines CI/CD.
-    <br>
-    Me enfoco en la seguridad, alta disponibilidad y la optimización de procesos mediante tecnología.
-  </p>
+  [cite_start]Ingeniera de Sistemas especializada en la arquitectura y automatización de infraestructura en la nube[cite: 7, 8]. [cite_start]Experta en transformar procesos manuales en pipelines de **CI/CD** eficientes y gestionar infraestructura escalable en **AWS** mediante **Terraform**[cite: 8, 14, 15].
+
+  [cite_start]Combinando una base sólida en administración de servidores tradicionales con las mejores prácticas modernas de **DevOps**, ayudo a las empresas a mejorar su agilidad y seguridad operativa[cite: 9, 10, 12].
 
   <a href="https://www.linkedin.com/in/eyla-v%C3%A1squez-8b9ab3188/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
