@@ -54,5 +54,5 @@ Mi experiencia técnica combina la administración de sistemas tradicional con l
 
 ### 📊 Estadísticas de GitHub
 <div align="center">
-  <img src="https://github-readme-stats-one.vercel.app/api?username=ingeyla&show_icons=true&theme=gotham&hide_border=true&count_private=true" alt="Eyla's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ingeyla&show_icons=true&theme=gotham&hide_border=true&count_private=true&cache_seconds=1800" />
 </div>
